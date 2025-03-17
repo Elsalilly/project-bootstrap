@@ -1,0 +1,13 @@
+/*
+body {
+    background-color: #fbc267;
+}
+*/
+
+.carousel .item {
+    height: 780px;
+}
+
+.d-block {
+    max-height:780px;
+}
